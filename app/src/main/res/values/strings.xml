@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LAT3_AKB11_10116503_ADISRIYUSTITIAAROFA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_NAMA">ADISRI YUSTITIA AROFA</string>
+    <string name="nav_header_katabijak">"Hidup harus terus berjalan walau sulit"</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_Daily">Daily Activity</string>
+    <string name="menu_teman">Friends List</string>
+    <string name="menu_Music">Music</string>
+    <string name="menu_Video">Video</string>
+    <string name="menu_Profile">Profile</string>
+    <string name="menu_tentang">about</string>
+
+    <string name="data_email"><b>yustitiaarofa22@gmail.com</b></string>
+    <string name="data_tempatlahir">saya lahir di <b>Kulonprogo</b> kota <b>DI Yogyakarta</b></string>
+    <string name="data_tanggal"> saya lahir tanggal <b>10 maret 1998 </b></string>
+    <string name="data_pekerjaan">saya seorang <b>Mahasiswa</b></string>
+    <string name="data_makanan">makanan kesukaan saya <b>Rendang</b></string>
+    <string name="data_minuman">Minuman kesukaan saya <b>Kopi</b></string>
+    <string name="data_citacita">Cita-cita saya menjadi <b>Presiden</b></string>
+
+    <string name="tentang_saya">Hai, nama saya Adisri yustitia arofa saya lahir di kulon progo tepatnya
+    di Yogyakarta pada tanggal 10 maret 1998 saya sekarang sedang menjadi mahasiswa di UNIKOM cita cita
+    saya kelak ingin menjadi presiden hobby saya adalah bermain musik dan bermain video game saya senang
+        makan rendang dan minum kopi keinginan saya bisa membuat orang tua bangga </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_rumah"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/icon_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_aktivitas"
+            android:icon="@drawable/icon_aktivitas"
+            android:title="@string/menu_Daily" />
+        <item
+            android:id="@+id/nav_teman"
+            android:icon="@drawable/icon_teman"
+            android:title="@string/menu_teman" />
+    </group>
+    <item android:title="Music and Video">
+        <menu>
+            <item
+                android:id="@+id/nav_musik"
+                android:icon="@drawable/icon_musik"
+                android:title="@string/menu_Music" />
+            <item
+                android:id="@+id/nav_video"
+                android:icon="@drawable/icon_video"
+                android:title="@string/menu_Video" />
+        </menu>
+    </item>
+
+    <item android:title="self data and application">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/icon_profile"
+                android:title="@string/menu_Profile" />
+            <item
+                android:id="@+id/nav_tentang"
+                android:icon="@drawable/icon_tentang"
+                android:title="@string/menu_tentang" />
+        </menu>
+    </item>
+
+</menu>
